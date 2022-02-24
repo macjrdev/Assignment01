@@ -48,9 +48,10 @@
 // console.log(Boolean(x))
 
 //STEP 8
-// let someString = 'Who once said, \\"Only two things are infinite, the universe and human stupidity, and Im not sure about the former."\\';
-// 
+// let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and Im not sure about the former."';
 // window.console.log(someString);
+// THE PROVIDED CODE IS VALID
+
 
 //STEP 9
 // let x = 1
@@ -85,9 +86,6 @@
 // console.log(yourName);
 
 //STEP 16;
-
-
-
 
 //STEP 17
 // let x = 10
